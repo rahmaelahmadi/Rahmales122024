@@ -1,0 +1,35 @@
+header{
+    background-color: #00CED1;
+    color :black;
+    width:100%;
+    height: 200px;
+    }
+    footer{
+    background-color: #00ffff;
+    color: black;
+    width:100%;
+    height:200px;
+    }
+    table {
+    width: 80%;
+    height: 80%;
+    background-color:grey;
+    border-width: 2px;
+    }
+    #cel1 {background-color: #ffccff;}
+#cel2{background-color: #ffcccc;}
+#cel3{background-color:#ffcc99 ;}
+#cel4{background-color:#ffcc66 ;}
+#cel5{background-color:#ff99ff ;}
+#cel6{background-color:#ff99cc ;}
+#cel7{background-color:#ff9999 ;}
+#cel8{background-color:#ff9966 ;}
+#cel9{background-color:#ff66ff ;}
+#cel10{background-color:#ff66cc ;}
+#cel11{background-color:#ff6699 ;}
+#cel12{background-color:#ff6666 ;}
+#cel13{background-color:#ff33ff ;}
+#cel14{background-color:#ff33cc ;}
+#cel15{background-color:#ff3399 ;}
+#cel16{background-color:#ff3366 ;}
+    
